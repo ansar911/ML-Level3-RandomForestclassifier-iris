@@ -1,4 +1,4 @@
-# 🌲 Random Forest Classification - Iris Dataset (Level 3 - Codveda Internship)
+# 🌲 Random Forest Classification - Iris Dataset 
 
 ## 📌 Project Overview
 
@@ -72,5 +72,3 @@ This project focuses on building a Random Forest classifier to improve predictio
 * Compare with SVM and Neural Networks
 
 ---
-
-✨ Internship Task - Codveda
